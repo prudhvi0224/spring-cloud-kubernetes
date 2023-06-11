@@ -11,5 +11,6 @@ public class MinikubeSampleApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(MinikubeSampleApplication.class, args);
+       System.out.println("prudhvi");
     }
 }
